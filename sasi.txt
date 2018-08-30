@@ -2,5 +2,4 @@
 12
 123
 testing
-Blue-NONE
 MErging started
