@@ -2,5 +2,8 @@
 12
 123
 testing
+<<<<<<< HEAD
 Blue-red
+=======
+>>>>>>> blue
 MErging started
